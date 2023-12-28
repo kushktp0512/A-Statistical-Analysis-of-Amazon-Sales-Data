@@ -54,13 +54,6 @@ The observational study employs a sample size of 30 to 50, randomly selected fro
 
 This project adheres to ethical and legal data collection practices. The team acknowledges and addresses potential biases in the dataset and takes measures to ensure the reliability and validity of the study's conclusions.
 
-## Contact Information
-
-For further information or inquiries, please contact the project team:
-
-- **Project Team:** Group 9
-- **Email:** group9@example.com
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
