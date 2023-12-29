@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the code and documentation for an observational study conducted by Group 9 from Northeastern University's Mechanical and Industrial Engineering Department. The study focuses on performing a statistical analysis of Amazon sales data sourced from Kaggle. The dataset comprises over 1000 product listings with various attributes, including original price, discount, rating, review count, and more.
+This repository contains the code and documentation for an observational study conducted by me with my classmates from Northeastern University's Mechanical and Industrial Engineering Department. The study focuses on performing a statistical analysis of Amazon sales data sourced from Kaggle. The dataset comprises over 1000 product listings with various attributes, including original price, discount, rating, review count, and more.
 
 ## Abstract
 
